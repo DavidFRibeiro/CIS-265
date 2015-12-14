@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+
 int cLength(char*);
 int main(int argc, const char * argv[]) {
     //initialize/define variables
