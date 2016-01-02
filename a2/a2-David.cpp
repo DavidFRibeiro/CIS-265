@@ -1,7 +1,7 @@
-//courseID:CIS165-001
+//courseID:CIS265-001
 //name: David Ribeiro
 //Prof. Wang
-//Assignment#1
+//Assignment#2
 //Due by 9/22/2015
 
 /*
